@@ -54,6 +54,9 @@ Ordenação dos elementos de forma a garantir a propriedade wiggle (nums[0] < nu
 
 ---
 
+## Link da Apresentação
+https://youtu.be/-PUp3JHdvxo
+
 ## Como Executar
 
 **Linguagem**: Python
